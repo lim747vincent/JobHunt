@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_purple">#171827</color>
+    <color name="hard_purple">#1E1E37</color>
+    <color name="light_blue">#43299E</color>
+    <color name="top_bar_color">#27272B</color>
+    <color name="light_purple">#DFE0F0</color>
+    <color name="search_icon_color">#DFE0F0</color>
+    <color name="page_title_color">#DFE0F0</color>
+    <color name="indicator_color">#6238AC</color>
+    <color name="tab_color">#1E1E37</color>
+
+</resources>

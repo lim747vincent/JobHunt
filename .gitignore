@@ -1,0 +1,71 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+
+### Android Studio ###
+*.iml
+.gradle
+/local.properties
+/.idea/
+/build/
+/captures/
+/output.json
+/navigation.json
+
+### Jetpack Compose & Kotlin ###
+/.compose-cache/
+/.kts
+.gradle/
+/*.log
+
+### Gradle ###
+/.gradle/
+/build/
+/out/
+/!gradle-wrapper.jar
+/.gradle/
+/gradle/
+/gradlew
+/gradlew.bat
+
+### Intellij / Android Studio ###
+.idea/
+/*.iml
+/.vscode/
+/*.swp
+
+### Debug / Release Builds ###
+/app/build/
+/android/app/build/
+/app/src/main/assets/**/*.keystore
+/.cxx/
+/*.so
+/*.o
+
+### Firebase ###
+/google-services.json
+/firebase/
+.crashlytics/
+fabric.properties
+
+### Misc ###
+/tmp/
+*.temp
+*.log
+*.lock
+node_modules/
+yarn.lock
+package-lock.json
